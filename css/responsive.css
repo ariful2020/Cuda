@@ -1,0 +1,52 @@
+@media all and (min-width: 1400px) {
+}
+/*========== max-width:1399px =============*/
+@media all and (max-width: 1399px) {
+}
+/*========== max-width:1200px =============*/
+@media all and (max-width: 1200px) {
+}
+/*========== max-width:992px =============*/
+@media all and (max-width: 992px) {
+}
+/*========== max-width:768px =============*/
+@media all and (max-width: 768px) {
+  .form input {
+    width: 100%;
+  }
+  .email {
+    margin-left: 0;
+  }
+}
+/*========== max-width:576px =============*/
+@media all and (max-width: 576px) {
+}
+/*========== max-width:414px =============*/
+@media all and (max-width: 414px) {
+  .portfolio-items {
+    width: 100%;
+    margin-left: -20px;
+  }
+  .portfolio-items ul li {
+    padding: 0 5px;
+  }
+  .portfolio-items ul li a {
+    padding: 8px 7px;
+  }
+}
+/*========== max-width:375px =============*/
+@media all and (max-width: 375px) {
+}
+/*========== max-width:360px =============*/
+@media all and (max-width: 360px) {
+  .portfolio-items {
+    width: 100%;
+    margin-left: -20px;
+  }
+  .portfolio-items ul li {
+    padding: 0 2px;
+  }
+  .portfolio-items ul li a {
+    padding: 8px 8px;
+  }
+}
